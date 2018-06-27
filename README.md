@@ -1,3 +1,3 @@
-# R
-# R
-# R
+#!/usr/local/bin/R
+
+args = commandArgs(trailingOnly=TRUE)
